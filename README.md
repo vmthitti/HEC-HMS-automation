@@ -1,2 +1,2 @@
 # HEC-HMS-automation
-with python 3.8.X version
+need pydsstools, openpyxl, netcdf4, pandas, requests, xarray
